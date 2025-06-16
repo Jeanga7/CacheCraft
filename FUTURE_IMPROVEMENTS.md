@@ -1,4 +1,4 @@
-# Future Improvements for Go-Cache
+# Future Improvements for CacheCraft
 
 This document outlines potential features and enhancements for future versions of the library. Contributions are welcome!
 

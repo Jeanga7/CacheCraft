@@ -1,4 +1,4 @@
-module github.com/Jeanga7/go-cache-demo
+module github.com/Jeanga7/CacheCraft
 
 go 1.24.2
 

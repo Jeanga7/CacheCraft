@@ -1,10 +1,10 @@
-# Go-Cache: A High-Performance Multi-Layer Caching Library for Go
+# CacheCraft: A High-Performance Multi-Layer Caching Library for Go
 
-[![GoDoc](https://pkg.go.dev/badge/github.com/Jeanga7/go-cache-demo/pkg/cache)](https://pkg.go.dev/github.com/Jeanga7/go-cache-demo/pkg/cache)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jeanga7/go-cache-demo)](https://goreportcard.com/report/github.com/jeanga7/go-cache-demo)
+[![GoDoc](https://pkg.go.dev/badge/github.com/Jeanga7/CacheCraft/pkg/cache)](https://pkg.go.dev/github.com/Jeanga7/CacheCraft/pkg/cache)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Jeanga7/CacheCraft)](https://goreportcard.com/report/github.com/Jeanga7/CacheCraft)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-`go-cache` is a flexible and performant multi-layer caching library for Go applications. It combines a fast in-memory LRU cache for hot data with a distributed Redis backend for a larger, shared cache pool. This approach provides a robust solution to significantly reduce latency and decrease load on your primary data stores.
+`cachecraft` is a flexible and performant multi-layer caching library for Go applications. It combines a fast in-memory LRU cache for hot data with a distributed Redis backend for a larger, shared cache pool. This approach provides a robust solution to significantly reduce latency and decrease load on your primary data stores.
 
 ## Features
 
@@ -20,7 +20,7 @@
 To use this library in your project, simply use `go get`:
 
 ```bash
-go get github.com/jeanga7/go-cache-demo/pkg/cache
+go get github.com/Jeanga7/CacheCraft/pkg/cache
 ```
 
 ## Quick Start
@@ -36,7 +36,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/jeanga7/go-cache-demo/pkg/cache" // Adjust this import path to your project
+	"github.com/Jeanga7/CacheCraft/pkg/cache" // Adjust this import path to your project
 )
 
 // main demonstrates the core functionalities of the cache library.

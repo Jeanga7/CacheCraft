@@ -1,4 +1,4 @@
-# Contributing to Go-Cache
+# Contributing to CacheCraft
 
 First off, thank you for considering contributing! We welcome any help to make this project better.
 
@@ -26,8 +26,8 @@ We love pull requests! Here’s how to submit one:
 
 2.  **Clone your fork**:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/go-cache-demo.git
-    cd go-cache-demo
+    git clone https://github.com/YOUR_USERNAME/CacheCraft.git
+    cd CacheCraft
     ```
 
 3.  **Create a new branch**:

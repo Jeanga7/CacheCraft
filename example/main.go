@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/Jeanga7/go-cache-demo/pkg/cache"
+	"github.com/Jeanga7/CacheCraft/pkg/cache"
 )
 
 // main now serves as a clean, runnable example of how to use the cache library.
