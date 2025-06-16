@@ -47,11 +47,11 @@ type Cache struct {
 
 // Stats contains statistics about the cache's performance.
 type Stats struct {
-	MemHits    int
-	MemMisses  int
-	MemEvicts  int
-	MemLen     int
-	MemKeys    []interface{}
+	MemHits   int
+	MemMisses int
+	MemEvicts int
+	MemLen    int
+	MemKeys   []interface{}
 }
 
 // New initializes a new multi-layer Cache with the given options.

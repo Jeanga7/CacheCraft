@@ -15,7 +15,7 @@ func main() {
 	// In a real application, these values would likely come from a config file.
 	opts := cache.Options{
 		RedisAddr:     "localhost:6379", // Assumes Redis is running locally
-		DefaultTTL:    2 * time.Second,      // A short TTL for demonstration
+		DefaultTTL:    2 * time.Second,  // A short TTL for demonstration
 		MaxMemEntries: 100,
 	}
 

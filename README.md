@@ -1,5 +1,6 @@
 # Go-Cache: A High-Performance Multi-Layer Caching Library for Go
 
+[![GoDoc](https://pkg.go.dev/badge/github.com/Jeanga7/go-cache-demo/pkg/cache)](https://pkg.go.dev/github.com/Jeanga7/go-cache-demo/pkg/cache)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jeanga7/go-cache-demo)](https://goreportcard.com/report/github.com/jeanga7/go-cache-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
